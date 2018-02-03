@@ -1,0 +1,28 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  font-weight:300;
+  color: #2D3C49;
+}
+.thin-header{
+  font-weight:100;
+  font-size:50px;
+}
+hr{
+  height: 1px;
+  border-top: 5px solid #7D97AD;
+}
+.two{
+  padding-top: 20px;
+}
+.three{
+  color: #7D97AD;
+  margin-left: auto;
+  margin-right: auto;
+}
+.modal{
+  height:100%;
+  width:100%;
+}
+.first,.second,.third{
+cursor: pointer;
+}
